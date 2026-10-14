@@ -15,6 +15,10 @@ run them on my own servers, and kill the ones that don't work.
 - **[YeetForm](https://yeetform.io)**: describe a form, publish it, collect answers
 - **[Glyphex](https://glyphex.io)**: cookieless, GDPR-friendly analytics
 
+### Behind the scenes
+- **powder**: my own self-hosted git-push deploy tool, runs every app above
+- **edgelord**: my own error, deploy and uptime monitoring for the whole fleet
+
 ### Open source
 - **[agent-setup](https://github.com/lisbeth718/agent-setup)**: how I run Claude Code across ~90 repos solo
 - **[ops-kit](https://github.com/lisbeth718/ops-kit)**: bash scripts that watch my servers
