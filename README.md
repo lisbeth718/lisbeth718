@@ -20,6 +20,7 @@ run them on my own servers, and kill the ones that don't work.
 - **edgelord**: error, deploy and uptime monitoring for the whole fleet
 
 ### Open source
+- **[prod-check](https://github.com/lisbeth718/prod-check)**: Claude Code skill that audits your app before you take money from customers
 - **[agent-setup](https://github.com/lisbeth718/agent-setup)**: how I run Claude Code across ~90 repos solo
 - **[ops-kit](https://github.com/lisbeth718/ops-kit)**: bash scripts that watch my servers
 - **[yeetpost-sdks](https://github.com/yeetpost/yeetpost-sdks)**: Go, Node, Python, PHP clients
