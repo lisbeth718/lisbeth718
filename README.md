@@ -16,8 +16,8 @@ run them on my own servers, and kill the ones that don't work.
 - **[Glyphex](https://glyphex.io)**: cookieless, GDPR-friendly analytics
 - **[Herizon](https://herizon.io)**: community, courses and talent matching for international professionals in Finland
 - **[Parvi](https://parvi.ai)**: AI agents
-- **powder**: my self-hosted git-push deploy tool, runs everything above
-- **edgelord**: error, deploy and uptime monitoring for the whole fleet
+- **[powder](https://powder.sh)**: my self-hosted git-push deploy tool, runs everything above
+- **[edgelord](https://edgelord.tech)**: error, deploy and uptime monitoring for the whole fleet
 
 ### Open source
 - **[prod-check](https://github.com/lisbeth718/prod-check)**: Claude Code skill that audits your app before you take money from customers
